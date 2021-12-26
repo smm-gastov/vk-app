@@ -47,3 +47,4 @@ Go to created folder and run:
 
 [deps]: https://img.shields.io/david/vkcom/create-vk-mini-app.svg
 [deps-url]: https://david-dm.org/vkcom/create-vk-mini-app"# gastov" 
+"# gastov" 
